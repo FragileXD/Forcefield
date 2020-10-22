@@ -21,7 +21,7 @@ intents = discord.Intents.all()
 client = commands.Bot(command_prefix=get_prefix, case_insensitive=True)
 client.remove_command('help')
 # region TOKEN
-TOKEN = 'NzU5NDc0MjkxMjY3NjAwNDAy.X2-BjQ.oAl5vXZdisTPLznLYDJyypssKEU'
+
 # endregion
 status = cycle(['My default prefix is -', 'Use -help for a list of commands!'])
 

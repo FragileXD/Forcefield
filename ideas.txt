@@ -1,0 +1,25 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+setup.py: 
+add = "member logs" picture
+add = "giveaways" picture
+add = "status" picture
+add = "leveling" picture
+
+add = "reports" setup subcommand
+
+finish = "leveling" command (error message)
+finish = "status" command (error message)
+finish = "setup - giveaway" (else)
+
+information.py:
+create = info message in status channel
+create = status messages to status channel
+
+add = "test" picture
+
+moderation.py:
+finish = "vcmute" command
+finish = "vcunmute" command
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
